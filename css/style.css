@@ -1,0 +1,73 @@
+.appointment{
+    padding: 100px 0;
+}
+.appointment-bg{
+    background-color: #3CD7C1;
+    position: relative;
+}
+.appointment-pd{
+    padding: 70px 20px 70px 0;
+}
+.form-control{
+    width: 30%;
+    border: none;
+    border-radius: 1;
+    border-radius: 3px;
+}
+.b-radius{
+    border-radius: 5px;
+    border: none;
+    width: 64%;
+    height: 115px;
+}
+.make-button{
+    background-color: #fff;
+    border-radius: 5px;
+    color: #3CD7C1;
+    text-decoration: none!important;
+    margin-top: 10px;
+    padding: 12px 20px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.u-btn{
+    text-align: center;
+    margin-right: 33px;
+    margin-top: 35px;
+}
+.about-btn {
+    margin-top: 35px;
+}
+.about-btn a{
+    background-color: #3CD7C1;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none!important;
+    padding: 12px 20px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.about-btn a:hover{
+    color:#4F56B3;
+}
+.eliminate{
+    padding: 67px 55px;
+}
+.eliminate h5{
+    padding-right: 170px;
+    margin-bottom: 35px;
+}
+.eliminate p{
+    margin-left: 12px;
+    color: #7B7B7B;
+}
+.my-2{
+    margin: 20px 0;
+}
+.app-rotate{
+    transform: rotate(270deg);
+    position: absolute;
+    top: 205px;
+    left: 140px;
+    color: #9BE6D9;
+}
